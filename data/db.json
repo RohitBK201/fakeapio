@@ -1,18 +1,4 @@
 {
-    "country": [
-      {
-        "id": 1,
-        "cnt": "India"
-      },
-      {
-        "id": 2,
-        "cnt": "SriLanka"
-      },
-      {
-        "id": 3,
-        "cnt": "USA"
-      }
-    ],
     "city": [
       {
         "id": 1,

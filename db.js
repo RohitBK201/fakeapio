@@ -1,6 +1,7 @@
-const items = require("./data/db.json")
-
+const dat = require("./data/db.json")
+const cnt = require("./data/cnt.json")
 
 module.exports = {
-  items
+  dat,
+  cnt
 }
