@@ -1,0 +1,66 @@
+{
+    "country": [
+      {
+        "id": 1,
+        "cnt": "India"
+      },
+      {
+        "id": 2,
+        "cnt": "SriLanka"
+      },
+      {
+        "id": 3,
+        "cnt": "USA"
+      }
+    ],
+    "city": [
+      {
+        "id": 1,
+        "country": "India",
+        "nm": "Delhi",
+        "pop": "19,000,000"
+      },
+      {
+        "id": 2,
+        "country": "SriLanka",
+        "nm": "Colombo",
+        "pop": "5,600,000"
+      },
+      {
+        "id": 3,
+        "country": "USA",
+        "nm": "Chicago",
+        "pop": "2,920,000"
+      },
+      {
+        "country": "japan",
+        "nm": "tokyo",
+        "pop": "2,000,000",
+        "id": 4
+      },
+      {
+        "country": "china",
+        "nm": "hongkong",
+        "pop": "4,000,000",
+        "id": 5
+      },
+      {
+        "country": "australia",
+        "nm": "sydney",
+        "pop": "5,000,000",
+        "id": 6
+      },
+      {
+        "country": "England",
+        "nm": "London",
+        "pop": "500,000",
+        "id": 7
+      },
+      {
+        "country": "asdfasd",
+        "nm": "asdfasd",
+        "pop": "asdfasdf",
+        "id": 8
+      }
+    ]
+  }
